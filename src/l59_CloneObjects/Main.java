@@ -27,3 +27,5 @@ class MyObject {
 class NewObject {
     int j;
 }
+
+//todo пересмотри про клонирование
